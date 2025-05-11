@@ -19,3 +19,6 @@ Rola Zeryfikowany Uczestnik nadaje odpowiednie prawa takie jak:
 - zmiena nicku
 - dostęp do kanałów głosowych
 - rozmowa na kanałach głosowych
+
+Inne role mogą dawać dostęp do kategorii, które są ograniczone dla danej roli (Role Based Access Control). Czyli zwykły użytkownik nie ma mozliwości dostępu do czatów HQ czy SL. 
+Dopmyślne kategorie są zabezpieczone właśnie wg RBAC.  
