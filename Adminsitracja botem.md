@@ -84,7 +84,7 @@ rr mode
 rr roles
 ```
 ```
-rr add
+rr add (wklej ID Roli)
 ```
 ```
 rr emoji :ok: 
