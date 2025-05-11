@@ -69,7 +69,7 @@ Dodanie kanału dla RR:
 ```
 rr channel (wklej ID kanału)
 ```
-Dodanie opisu:
+Dodanie opisu, oczywiście można mofyfikować. Nową linię dodajemy za pomocą *shift+enter*
 ```
 rr desc Cześć, witamy na serwerze Ossowa w ramach imprezy Skorpion 2025! Prosimy o weryfikację czy nie jesteś botem.
 
