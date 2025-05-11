@@ -42,7 +42,7 @@ rr emoji :{emoji jakie chemy dla roli}
 rr submit
 ```
 
-powrażamy powyższe komendy "add" "role i "emoji" aż dodamy wszystkie potrzebne role i emoji dla nich
+Powtarzamy powyższe komendy "rr add" "rr role i "rr emoji" aż dodamy wszystkie potrzebne role i emoji dla nich
 
 ```
 rr back
