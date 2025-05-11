@@ -1,4 +1,4 @@
-# Link do oficjalnej sotrny bota:
+# Link do oficjalnej strony bota:
 https://boomfinity.xyz/
 
 # Dodatnie bota:
