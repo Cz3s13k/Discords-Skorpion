@@ -48,6 +48,10 @@ Powtarzamy powyższe komendy "rr add" "rr role i "rr emoji" aż dodamy wszystkie
 rr back
 ```
 
+```
+rr submit
+```
+
 Bot sam usunie wiadomości przed RR.
 
 Przykład poprawnej RR z wieloma rolami dla sprzętu:
