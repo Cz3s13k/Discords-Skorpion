@@ -35,3 +35,15 @@ Welcome {MENTION}! Please verify yourself on #weryfikacja channel.
 
 ![obraz](https://github.com/user-attachments/assets/c034fbac-4ac3-44e8-a355-61e4bf99ecc7)
 
+
+# Administracja botem - ZABEZPIECZENIA
+
+W ustawieniach bota wybierz opcję Zabezpieczenia i włącz cztery pierwsze opcje:
+
+![obraz](https://github.com/user-attachments/assets/0eaffbc7-0099-42d7-9b7e-c910b611bb9e)
+
+# Administracja botem - AutoModerator
+
+W ustawieniach bota wybierz opcję AutoModerator i wyłącz wszystkie opcje poza pierwszą:
+
+![obraz](https://github.com/user-attachments/assets/525c9a8a-45fa-41fc-8796-e117b3c550ba)
