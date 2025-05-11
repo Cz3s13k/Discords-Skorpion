@@ -23,3 +23,26 @@ Rola podstawowa nadająca minimalne uprawnienia. Nadawana automatycznie przez bo
 ## DO WERYFIKACJI
 Rola automatyczna nadawana przez bota. Prawa do odczytu kanału powitalnego i kanału do weryfikacji. Brak dostepu do innych kanałów czy możliwości pisania. 
 
+# Role sprzętowe
+Szablon posiada dodatkowe role, które służą do ustalenia jaki sprzęt jest dostępny wśród użytkowników. Role nie dają dodatkowych uprawnień. 
+
+## Digital Radio
+Rola dla posiadaczy cyfrowych radiotelefonów zdolnych do szyfrowania komunikacji. 
+
+## NVG
+Rola dla posiadaczy noktowizji.
+
+## TAK Operator 
+Rola dla posiadacza sprzętu wspierającego aplikację CivTAK.
+
+## Meshtastic 
+Rola dla posiadaczy stacji radiowych umożliwiajacych komunikację w sieci mesh.
+
+## Drone operator
+Rola dla posiadaczy dronów.
+
+## Starlink
+Rola dla posiadaczy sprzętu umożliwiającego satelitarną komunikację z Internetem. 
+
+## Thermal
+Rola dla posiadaczy sprzętu termowizyjnego.
