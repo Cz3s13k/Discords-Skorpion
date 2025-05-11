@@ -48,53 +48,71 @@ W ustawieniach bota wybierz opcję AutoModerator i wyłącz wszystkie opcje poza
 
 ![obraz](https://github.com/user-attachments/assets/525c9a8a-45fa-41fc-8796-e117b3c550ba)
 
-# REACTION ROLES - 
+# REACTION ROLES - wydokujemy na serwerze discord
 
-**NADAJ ROBIE ROLĘ "ZWERYFIKOWANY UCZESTNIK", NAJEDŹ NA SWÓJ PROFIL I PRAWYM PRZYCISKIEM MYSZY NA ROLI WYWOŁAJ MENU, SKOPIUJ id ROLI I ZAPISZ GDZIEŚ W NOTATNIKU!!**
+**NADAJ SOBIE ROLĘ "ZWERYFIKOWANY UCZESTNIK", NAJEDŹ NA SWÓJ PROFIL I PRAWYM PRZYCISKIEM MYSZY NA ROLI WYWOŁAJ MENU, SKOPIUJ ID ROLI I ZAPISZ GDZIEŚ W NOTATNIKU!!**
+
+
 ![obraz](https://github.com/user-attachments/assets/68529756-a2d2-433f-99aa-f361a3324661)
 
 
-Wróć na serwer Discord i znajdź kanał *polecenia* w kategorii admin zone.
+Znajdź kanał *polecenia* w kategorii admin zone.
 Wpisuj zastępujące komendy w pole wysyłania wiadomości i wyślij je
 
+Stworzenie RR:
 ```
 ??rr create
 ```
 Kliknij prawym przyciskiem wyszy na kanał *#weryfikacja* i skopiuj ID Kanału.
 
+Dodanie kanału dla RR:
 ```
 rr channel (wklej ID kanału)
 ```
-
+Dodanie opisu:
 ```
 rr desc Cześć, witamy na serwerze Ossowa w ramach imprezy Skorpion 2025! Prosimy o weryfikację czy nie jesteś botem.
 
 Hi, welcome to Ossowa server for Skorpion 2025 event! Please verify yourself that you are not a bot.
 ```
+Nadanie nazwy RR:
 ```
 rr name weryfikacja
 ```
+Wyłaczenie prywatnej wiadomości z nadaniem roli:
 ```
 rr notify
 ```
+Zmiana trybu nadawania roli:
 ```
 rr mode
 ```
+Dodanie roli serwera do RR:
 ```
 rr roles
 ```
+Dodanie konkretnej roli:
 ```
 rr add (wklej ID Roli)
 ```
+Dodanie emoji, która której wybranie danaje rolę:
+Wszystkie emoji w Discordzie zaczynają się i kończą na *:*, staramy się używać domyślych emoji dostarczonych w discordzie. Uzycie emoji innego serwera spowoduje błąd (bot nie ma do niej dostępu). 
+Jeżeli chcesz dodać własną emoji do serwera możesz zrobić to w menu serwera. Wtedy taka emoji jest dostępna dla bota i RR. 
 ```
 rr emoji :ok: 
 ```
+Zatwierdzenie zmian:
 ```
 rr submit
 ```
+Powrót do poprzedniego menu
 ```
 rr back
 ```
+Zatwierdzenia zmian RR
 ```
 rr submit
 ```
+Bot automatycznie doda wiadomość na odpowiednim kanale:
+
+![obraz](https://github.com/user-attachments/assets/0e1c95ab-b954-4879-b07b-8f87abc66bf6)
